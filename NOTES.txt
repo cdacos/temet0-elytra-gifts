@@ -1,0 +1,2 @@
+Log where a player is when they're banned by Anti-Xray
+
