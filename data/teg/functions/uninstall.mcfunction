@@ -1,1 +1,2 @@
 scoreboard objectives remove elytra_gifts
+scoreboard objectives remove elytra_gifts_max
