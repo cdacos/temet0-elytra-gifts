@@ -2,4 +2,4 @@
 scoreboard objectives add elytra_gifts dummy "Elytra Gifts"
 scoreboard players add @a elytra_gifts 0
 
-execute as @a at @s run tellraw @s[tag=OP] ["",{"text":"[Elytra-Gifts] ","color":"red"},{"text":"Reloaded 0.4.0","color":"green"}]
+execute as @a at @s run tellraw @s[tag=OP] ["",{"text":"[Elytra-Gifts] ","color":"red"},{"text":"Reloaded 0.5.0","color":"green"}]
